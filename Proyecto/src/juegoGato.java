@@ -82,11 +82,11 @@ public class juegoGato {
 	        
 	        if(getTurno()==true)
 	                
-	                System.out.println("JUGADOR 1: Elija Una Casilla Ingresando El Numero Correspondiente.");
+	                System.out.println("Jugador 1 elija una casilla sabiamente ingresando el numero que usted desee");
 	                
 	        else
 	                
-	                System.out.println("JUGADOR 2: Elija Una Casilla Ingresando El Numero Correspondiente.");       
+	                System.out.println("Jugador 2 elija una casilla sabiamente ingresando el numero que usted desee");       
 	    }
 	    
 	    public char obtenerFigura(){
