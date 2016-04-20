@@ -13,7 +13,7 @@ public class juegoGato {
 	        rufian   = 'X';
 	        rufian2   = 'O';
 	        turno        = true;   
-	        int contador = 0;      
+	       
 	        inicializarTablero();  
 	    }
 	        
